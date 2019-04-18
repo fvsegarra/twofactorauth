@@ -91,7 +91,13 @@ websites:
     img: idrive.png
     tfa: No
     facebook: IDriveBackup
-
+    
+   - name: Internxt X Cloud
+    url: https://internxt.com/cloud
+    twitter: Internxt
+    img: internxt.png
+    tfa: Yes
+    
   - name: Jottacloud
     url: https://www.jottacloud.com
     twitter: jottacloud
